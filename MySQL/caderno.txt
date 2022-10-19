@@ -1,10 +1,11 @@
-O que faz o MySQL ser tao popular e a sua facil adapetacao para engenheiros de software, que nesse banco relacional nao ha tantas diferencas com outros bancos, assim evitando surpresas!
+O que faz o MySQL ser tao popular? E a sua facil adapetacao para engenheiros de software, que nesse banco relacional nao ha tantas diferencas com outros bancos, assim evitando surpresas!
 MySQL esta disponivel para todos os sistemas, e caso nao esteja para algum sistema em questao e possivel baixar o seu codigo binario para usalo.
 
 O desenvolvimento do MySQL, sempre foi focado tao em velocidade como tambem outros requesitos cruciais que um BD tem que ter.
-MySQL oferece total gerenciamento de seguranca para voce, um dos exemplos sao: Usuario deve ter um SSL  valido para se conectar com BD
+MySQL oferece total gerenciamento de segurança para voce, um dos exemplos sao: Usuario deve ter um SSL  valido para se conectar com BD
 
-Licença de codigo, MySQL oferece uma versao gratuita de seu software sob os termos da GNU (General Public License) os termos sao gigantes para ser lido, mas basicamente voce pode modifica-lo e redistribui-lo desde que faca com os termos da GPL.
+Licença de codigo, MySQL oferece uma versao gratuita de seu software sob os termos da GNU (General Public License) 
+os termos sao gigantes para ser lido, mas basicamente voce pode modifica-lo e redistribui-lo desde que faca com os termos da GPL.
 Acho que nao vale muito apena adentrar de vez nesse assunto, pois por ser lincenca voce mesmo deve ir ler, por questoes de seguranca
 
 Quando esta pesquisando sobre MySQL, o problema não tem a ver com o fato de achar o que se esta procurando, mas aonde comecar!
@@ -14,6 +15,9 @@ Recursos imprecionantes do MySQL
 1) Stored procedures (procedimentos armazenados): E um conjunto de instrucoes SQL que fica armazenado no banco de dados e disponivel da mesma forma que funcoes como min() e rand()
 A função MIN usa uma coluna ou duas expressões como argumento e retorna o menor valor. 
 
-2) Views As views permitem que os administradores de BD limitem o acessi as tabelas de BD somente aos dados que se queira que sejam usados. Muitas vezes os bancos de dados sao formados para que o publico nao ha veja ha casos que ate mesmo progrmadores nao podem velos
+2) Views: As views permitem que os administradores de BD limitem o acessi as tabelas de BD somente aos dados que se queira que sejam usados. 
+Muitas vezes os bancos de dados sao formados para que o publico nao ha veja ha casos que ate mesmo progrmadores nao podem velos
 
-3)Tiggers: Triggers geralmente sao usados para validar ou fazer coecao de dados antes e depois de inserir na tabela para ficar de acordo com a logiva ou com regras de negocios
+3)Tiggers: Triggers geralmente sao usados para validar ou fazer coeção de dados antes e depois de inserir na tabela para ficar de acordo com a logiva ou com regras de negocios
+
+

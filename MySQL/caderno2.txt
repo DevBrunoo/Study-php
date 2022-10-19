@@ -1,0 +1,20 @@
+Instalado e gerenciando MySQL
+
+Esta e uma parte que sera focado na instalacao do MySQL, porem nao substitui o gigantesco Guia dele.
+Vamos falar um pouco sobre:
+
+1)Fazendo download do MySQL
+2)Variações na distribuição
+3)Procedimentos para instalacao (font, binario, RPMs)
+4)Configurando a senha de administrador do MySQL
+5)Iniciando e terminando o MySQL
+6)Instalando o MySQL como um servico do sistema
+7)Questões relacionadas com a configuacao e a otimizacao do  MySQL
+8)Configurando o PHP para usar MySQL
+
+Existe duas edicoes do BD MySQL: MySQL Community Server e MySQL Enterprise Server disponivel para
+donwload gratis voce deve usar o primeiro se nao precisa de auxilio do suporte
+
+A instalacao do MySQL vai depender so sistema operacional que voce estiver usando
+porem o procedimento e simples, basicamete acessar o site principal deles aonde esta disponivel
+o download do BD, baixalo e instalar. Recomendo fortemenete que essa parte voce veja no YouTube
