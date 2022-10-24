@@ -1,0 +1,61 @@
+Uma das vantagens do PHP e que voce pode inserir o seu codigo durante o processo de construcao do HTML.
+
+Para quem nao gosta muito de digitar pode usar <?    ?> que sao chamadas de short-tgas que sao 
+praticamente a mesma coisa de <?php ?>. Esse exemplo parece nao funciona na versao 8.0. Por motivos de adaptacao voce nao deveria usar essa tag.
+A tambem como editar com script da seguinte forma  <script language="PHP"> print "Este e um conteudo de script </script>
+Por ultimo uma bem rara se voce tiver suporte a ASP pode usar <% %> e ficaria da  seguinte maneira <% print "Este e o outro exemplo %>
+
+E de extrema impontancia que voce comente o seu codigo pois com o passar do tempo e o projeto ficando cada vez mais expesso voce pode se perde e ficar estressado
+O php oferece diversas maneiras de comenta no mac eu aperto shift + option + A com isso o comentario ja sai automaticamente para eu escrevelo, funciona para quase todas as linguagens 
+PHP  suporta sintaxe de comentario C++ de linha unica, que e precendida por duas barras (//). 
+O PHP tambem suporta sintaxe shel o que permite criar comentarios por linha usando (#) na frente de qualquer comentario 
+
+
+Especificadores
+
+%b argumento considerado um inteiro; apresentado com um numero binario
+
+%c argumento considerado um inteiro apresebtado como caractere, correspondente aquele valor ASCII.
+
+%d argumento considerado um inteiro; apresentado como numero decimal
+%f argumento considerado um ponto flutuante; apresentado como um numero float
+%o argumento considerado inteiro; apresentado como numero octal
+%s argumento considerado considerado uma string, apresentado como uma string
+%u argumento considerado um inteiro; apresentado como um numero decimal nao assinado 
+%x Argumento considerado um inteiro; apresentado como numero hexadecimal em letras minusculas
+%X argumento considerado um inteiro; apresentado como um numero hexadecimal em letras minusculas
+
+42 //decimal
+-678900 // decimal
+0755 //octal 
+0xC4E // hexadecimal 
+
+
+-----------/-----------/---------------/------------------/---------/--------/-------------/---------/--
+Uma variavel e uma localizacao de memoria nomeada que contem dados, e pode ser manipulados durante o projeto
+Uma variavel sempre comeca com o simbolo de dolar ( $ ) que em seguida vem o seu nome
+Exemplos: $color $operating_system $_some_variable $model 
+
+Note que as variaveis diferenciam letras minusculas de maiusculas.
+
+$color
+$Color 
+$COLOR 
+
+Essas variaveis nao apresentam nenhuma relacao uma com a outra. 
+Boa praticas dizem que voce deve declarar as variaveis antes de a usalas. E de preferencia com um comentario.
+
+
+-----------------------------------/-/---------/------------------/--
+ Uma contante e um valor que nao pode ser modificado
+Constantes sao basicamente uteis para trablhar com valores
+Dfinitivamente nao vao modificar valores como PI(3.14) ou
+o valor de uma milha que e (2,280)
+
+Uma vez ela sendo definifa ela nao pode ser modificada. 
+Constantes sao definidas usando o valor define()
+
+Expressoes e uma frase expressando 
+uma acao em particular em um programa.
+Todas as expressoes consistem de um ou mais operadores
+
