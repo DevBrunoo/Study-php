@@ -4,7 +4,7 @@
  -->
  
  <?php 
-  //Titulo: Mei primeiro script PHP
+  //Titulo: Meu primeiro script PHP
   //Autor: Janson
   //Sintaxe C++
 

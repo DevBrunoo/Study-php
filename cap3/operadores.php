@@ -1,7 +1,7 @@
 <!-- 
     Operadores sao entradas de uma expressao
     Voce talvez ja esteja familarizado com a manipulacao 
-    e o uso de operdos tanto com a progrmacao e contas de matematicas
+    e o uso de operdos tanto com a programacao e contas de matematicas
 
     Um operador e um simbolo que especifica uma acao em uma expressao as vezes
     A precedencia e companhia de operadores sao coisas indispensaveis em uma linguagem 
@@ -72,7 +72,7 @@ $sum = $val1 + $val2; // $sum, $vall e $val2 sao operandos
 
 <!-- 
     Operadores logicos estarao com voce na maior parte
-    de seu projeto, eles tem um papel muito importnate 
+    de seu projeto, eles tem um papel muito importante 
     oferencendo uma maneira de tomar decisoes besado em valor 
     das variaveis.
 

@@ -10,9 +10,9 @@
  -->
 
  <?php 
-
 define("PI", 3.141592);
-
+ 
+ printf("bruno e o que\n\n", bo);
  printf("O valor de PI e %f", PI);
  $pi2 = 2 * PI;
  printf("O dobro de PI e %f", $pi2);

@@ -17,7 +17,7 @@
 
  <!-- 
      Voce pode ver que os valores forma diferentes
-     Isso acontexe porque a variavel que esta dentro 
+     Isso acontece porque a variavel que esta dentro 
      da funcao nao interfere nas variaveis fora da funcao
      que foi declarada.
      Essa secao se aplica somente aos parametros 

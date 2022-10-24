@@ -12,9 +12,11 @@ O resultado e uma linguagem que permite ao usuario contruir aplicacoes poderosas
 <?php echo date("F j, Y");?>
 
 
-No PHP nao ha necessidade de criar e fazer casting(converte um tipo de dado para outro) pois ele e uma linguagem livre porem isso nao te inpede se quiser.
+No PHP nao ha necessidade de criar e fazer casting(converte um tipo de dado para outro) pois ele e uma linguagem 
+livre porem isso nao te inpede se quiser.
 O PHP lida internamente com tais assuntos criando variaveis rapidamente, pois elas sao chamadas em um script. 
 
-O desenvolvedor PHP tem mais de 180 bibliotecas e incontaveis funcoes para o seu uso, 
+O desenvolvedor PHP tem mais de 180 bibliotecas e incontaveis funcoes para o seu uso,
+mas isso nao tira a vantagem de poder construir diversas funcionalidades unicas por meio do php
 Os desenvolvedores PHP raramente estao ligados a uma unica solucao de implementacao.
 

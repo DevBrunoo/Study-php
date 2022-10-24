@@ -1,12 +1,16 @@
 Uma das vantagens do PHP e que voce pode inserir o seu codigo durante o processo de construcao do HTML.
 
 Para quem nao gosta muito de digitar pode usar <?    ?> que sao chamadas de short-tgas que sao 
-praticamente a mesma coisa de <?php ?>. Esse exemplo parece nao funciona na versao 8.0. Por motivos de adaptacao voce nao deveria usar essa tag.
+praticamente a mesma coisa de <?php ?>. Esse exemplo parece nao funciona na versao 8.0. Por motivos de 
+adaptacao voce nao deveria usar essa tag.
 A tambem como editar com script da seguinte forma  <script language="PHP"> print "Este e um conteudo de script </script>
-Por ultimo uma bem rara se voce tiver suporte a ASP pode usar <% %> e ficaria da  seguinte maneira <% print "Este e o outro exemplo %>
+Por ultimo uma bem rara se voce tiver suporte a ASP pode usar <% %> e ficaria da  
+seguinte maneira <% print "Este e o outro exemplo %>
 
-E de extrema impontancia que voce comente o seu codigo pois com o passar do tempo e o projeto ficando cada vez mais expesso voce pode se perde e ficar estressado
-O php oferece diversas maneiras de comenta no mac eu aperto shift + option + A com isso o comentario ja sai automaticamente para eu escrevelo, funciona para quase todas as linguagens 
+E de extrema impontancia que voce comente o seu codigo pois com o passar do tempo e o projeto 
+ficando cada vez mais expesso voce pode se perde e ficar estressado
+O php oferece diversas maneiras de comenta no mac eu aperto shift + option + A com isso o comentario 
+ja sai automaticamente para eu escrevelo, funciona para quase todas as linguagens 
 PHP  suporta sintaxe de comentario C++ de linha unica, que e precendida por duas barras (//). 
 O PHP tambem suporta sintaxe shel o que permite criar comentarios por linha usando (#) na frente de qualquer comentario 
 
