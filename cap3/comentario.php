@@ -12,7 +12,7 @@
  ?>
 
  <?php
-      # Tutulo: Meu programa PHP
+      # Titulo: Meu programa PHP
       # Autor: Jason
       #Sintax Shell
 
@@ -25,6 +25,7 @@
   Autor: Jason
   Data Julho 26, 2007
   Sintaxe C de linhas duplas
+  Se voce estiver com um mac, pode precionar as teclas shift + command + a 
   */    
 
 ?>

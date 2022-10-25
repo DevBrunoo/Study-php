@@ -11,6 +11,7 @@
 
  <?php 
 define("PI", 3.141592);
+define("bo", 3.989);
  
  printf("bruno e o que\n\n", bo);
  printf("O valor de PI e %f", PI);

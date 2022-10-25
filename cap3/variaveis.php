@@ -4,6 +4,7 @@
     releitura, esta dentro das boas praticas 
     ----------------------------------------------
  -->
+<?php
 
  $x = 4;
  function assignx() {
@@ -15,6 +16,7 @@
  assignx();
  printf("\$x fora da função é %d <br />", $x);
 
+ ?>
  <!-- 
      Voce pode ver que os valores forma diferentes
      Isso acontece porque a variavel que esta dentro 
