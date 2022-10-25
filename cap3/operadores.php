@@ -79,7 +79,7 @@ $sum = $val1 + $val2; // $sum, $vall e $val2 sao operandos
     Esses operadores sao usado comumentes com estruturas de controle
     tais como if(se) e os loops while()
 
-    Exemplos: $a && &b Verdadese ambos forem verdadeiros 
+    Exemplos: $a && &b Verdade se ambos forem verdadeiros 
     $a AND $b verdade se ambos $a e $b forem verdadeiros
     $a || $b verdade se ambos $a e $b forem verdadeiros
     a outros que recomendo voce a pesquisar

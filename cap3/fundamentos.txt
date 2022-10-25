@@ -19,7 +19,7 @@ Especificadores
 
 %b argumento considerado um inteiro; apresentado com um numero binario
 
-%c argumento considerado um inteiro apresebtado como caractere, correspondente aquele valor ASCII.
+%c argumento considerado um inteiro apresentado como caractere, correspondente aquele valor ASCII.
 
 %d argumento considerado um inteiro; apresentado como numero decimal
 %f argumento considerado um ponto flutuante; apresentado como um numero float

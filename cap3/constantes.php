@@ -1,5 +1,5 @@
 <!-- 
-    Uma contante e um valor que nao pode ser modificado
+    Uma constante e um valor que nao pode ser modificado
     Constantes sao basicamente uteis para trablhar com valores
     Dfinitivamente nao vao modificar valores como PI(3.14) ou
     o valor de uma milha que e (2,280)
