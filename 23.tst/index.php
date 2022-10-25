@@ -5,7 +5,8 @@
     
     <?php
 $cidade = "sertaozinho";
-echo "phpinfo()"
+echo "phpinfo()";
+define("bruno", 18)
 ?>
 
 
