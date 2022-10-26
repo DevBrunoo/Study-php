@@ -7,12 +7,14 @@ Criada por Rasmus Lerdodorf seu intuito e era somente descubrar quantas pessoas 
 Na epoca nao existia muitas ferramentas como essa, com isso Rasmus comecou a comercializar as suas ferramentas com o nome PHP
 Com o aumento da oferta em busca do PHP, Rasmus continou a programar para evoluir essa linguagem contruida a parti de C
 "Desde do inicio a linguagem PHP foi criada com praticidade na mente"
-O resultado e uma linguagem que permite ao usuario contruir aplicacoes poderosas mesme com o minimo de conhecimento.
+O resultado e uma linguagem que permite ao usuario contruir aplicacoes poderosas mesmo com o minimo de conhecimento.
+
+Sintaxe PHP:
 
 <?php echo date("F j, Y");?>
 
 
-No PHP nao ha necessidade de criar e fazer casting(converte um tipo de dado para outro) pois ele e uma linguagem 
+No PHP nao ha necessidade de criar e fazer casting(converte um tipo de dado para outro) pois ela e uma linguagem 
 livre porem isso nao te inpede se quiser.
 O PHP lida internamente com tais assuntos criando variaveis rapidamente, pois elas sao chamadas em um script. 
 
