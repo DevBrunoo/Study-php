@@ -14,4 +14,5 @@ printf("Cinco elevado a terceira potencia é igual a %d.", pow(5,3));
     Voce pode aprender sobre funcoes
     e ver as bibliotecas disponiveis atras do 
     site do proprio php: www.php.net
+    --------------------------------------
  -->

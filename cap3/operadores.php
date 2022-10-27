@@ -134,7 +134,7 @@ $sum = $val1 + $val2; // $sum, $vall e $val2 sao operandos
 
       Outros exemplos
        
-       Exemplo   rotulp     Resultado
+       Exemplo   rotul0     Resultado
       ˜b          Nao       nega cada bit em $b
 
       Recomendo pesquisar mais sobre esse assunto 

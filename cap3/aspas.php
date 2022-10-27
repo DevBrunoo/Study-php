@@ -3,7 +3,7 @@
     /* 
     Voce pode ver que chamei as variaveis
     outout duas vezes, porem retorno apenas 
-    uma vez, a linha1 pois ela foi escrita primeiro
+    uma vez, a linha 1 pois ela foi escrita primeiro
     isso acontece porque o php usa a mesma regras 
     integradas em python, que se assemelha em
     ler e executar o codigo de cima para baixo.
@@ -249,13 +249,11 @@ Explicabo vero consequatur facilis temporibus aliquid minus repellendus voluptat
     ------------------------------
  -->
 <style>
-    /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
   overflow: hidden;
 }
 
-/* Style the links inside the navigation bar */
 .topnav a {
   float: left;
   color: #f2f2f2;
@@ -265,13 +263,11 @@ Explicabo vero consequatur facilis temporibus aliquid minus repellendus voluptat
   font-size: 17px;
 }
 
-/* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
   color: black;
 }
 
-/* Add a color to the active/current link */
 .topnav a.active {
   background-color: #04AA6D;
   color: white;

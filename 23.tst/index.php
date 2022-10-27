@@ -37,4 +37,7 @@ echo str_replace("mundo", "Dimitri", $palavra );
 $carro = "Eu tenho um gol";
 echo str_replace("gol", "ferrari", $carro );
 //Essa str_replace substitui as palavras das variaveis
+
+echo ("Quero um carro\n"."$carro");
+
 ?>

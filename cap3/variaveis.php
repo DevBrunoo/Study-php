@@ -1,5 +1,5 @@
 <!-- 
-    E sempre bom declarar uma variavel ante de usala
+    E sempre bom declarar uma variavel antes de usala
     fica mais pratico e menos pragrematico em sua 
     releitura, esta dentro das boas praticas 
     ----------------------------------------------

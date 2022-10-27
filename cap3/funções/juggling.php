@@ -9,7 +9,7 @@ $total += $count; //$total = 20 (um inteiro)
 ?>
 
 <!-- 
-    O $total esta resiguinado como como 20, convertendo
+    O $total esta resiguinado como 20, convertendo
     a variavel $count a partir de uma string 
     Exemplo abaixo mostrando a capacidade de Juggling
     --------------------------------------------------
