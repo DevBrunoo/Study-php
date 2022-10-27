@@ -1,0 +1,36 @@
+Funções do PHP
+
+Programacao de computador existe para automatizar tarefas 
+de todos os tipos possiveis, desde de calculos de pagamento 
+ate o que voce puder imaginar. 
+
+Neste capitulo irei incluir quase tudo sobre funcoes, desde 
+como chamalas, crialas, passar parametros para elas, retorna 
+valores unicios e multiplos ao solicitar criar e incluir bibliotecas funcoes.
+
+Existe incontaveis funcoes disponiveis para voce usar no PHP, dificilmente
+voce sera obrigado a criar uma funcao. A mesmo quem diga que apreder sobre 
+bibliotecas e a coisa mais racional de se fazer, porem nesse cap vou mostrar
+como criar funcoes. Voce pode chamar a funcao que quiser simplemente especificando
+o seu nome por meio da instalacao ou usando require() ou include(). 
+Exemplo se voce quiser elevar 5 a 3 potencia, pode chamar a funcao pow() sintaxe abaixo:
+
+<?php
+
+   $value = pow(5,3); 
+   echo $value;
+
+?>
+
+
+Se quiser definir um atalho pode definir a funcao ja junto com a variavel.
+
+<?php 
+  echo pow(5,3);
+?>
+
+Se voce quiser exibir o resultado dentro de uma string pode fazer da seguinte maneira
+
+echo "cinco elevado ao terceiro poder e " ". pow(5,3). ".";
+ ou talvez eloquetemente poderia usuar um 
+printf("Cinco elevado a terceira potencia é igual a %d.", pow(5,3));
