@@ -11,13 +11,20 @@
  -->
 
  <?php
+   $sorte=$_POST["sort"];
    $secretNumber = 453;
-   $_POST['guess'] = 442;
-   if($_POST["guess"] == $secretNumber) {
+   if($sorte == $secretNumber) {
        echo "<p>Parabens!</p>";
-   } elseif (abs ($_POST['guess'] - $secretNumber) < 10){
+   } elseif (abs ($sorte - $secretNumber) < 10){
        echo "<p>Voce esta chegando perto</p>";
    } else {
        echo "<p>Sinto muito</p>";
    }
  ?>
+
+<form name="elseif" method="post">
+<input type="number" name="sort" size="40" maxlength="40"/><br/>
+<br>
+<input type="submit" value="Enviar"/>
+
+</form>

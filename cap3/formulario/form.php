@@ -7,6 +7,11 @@
     echo 'Nome: ' . ($_GET['nome'] ?? '') . "<br>";
     echo 'E-mail: ' . ($_GET['email'] ?? '') . "<br>";
 } else {
+    /* 
+    Se o usuario nao digitar seu email e nome
+    vai retorna um alert falando que algo deu errado
+    ---------------------------------------------------
+    */
     echo '<script>alert("Algo esta incorreto")</script>';
     /* echo '<style>
     body{
