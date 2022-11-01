@@ -1,0 +1,14 @@
+O melhor do PHP 
+
+O mundo inteiro implementa PHP em seus projetos, essa pasta tem como objetivo fornecer um guia rapido para entender
+o basico do PHP antes se comprometer a qualquer tipo de trabalho, nao e necessario entender essa lingua por enquanto
+essa pasta e para quem nao entende nada sobre a linguagem ou ate mesmo sabe seu basico.
+
+Para os que querem trabalhar com PHP e ganhar uma boa grana a mais, recomendo uma certificacao da 'zend certified enginner'
+Muitos dizem que PHP esta morrendo assim como muitos falaram que Java esta morto porem sempre vemos que nao passa de historietas
+a prova esta na longa lista de vagas tanto para JAVA como tambem para PHP. 
+Essa pasta tem como objetivo te auxiliar a aproveita o maximo do PHP. 
+
+Caso queira uma mini otimizacao, voce pode usar a funcao php_strip_whitespace, essa funcao limpara
+todos os comentarios e linhas em branco para retorna apenas o necessario ao interpretador 
+melhor explicacao no arquivo cap2.php.

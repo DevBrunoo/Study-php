@@ -1,0 +1,25 @@
+Porque do PHP.
+
+
+Basta pesquisar o uso do php no mecanismo de busca que voce vera 
+que o PHP e usado em mais de 70% de toda internet, empresas como
+Wordpress, facebook o usam e ele vem crescendo e se readaptando 
+conforme as necessidades do mercado. O php e uma linguagem muito 
+velha que vive ate hoje com mais de 25 anos de historias ela e 
+implementa ate nos mundo de hoje em projetos que durarao mais muitos
+anos. Um exemplo e o seu uso na tao recente Web3.0 que de baseia em 
+uma rede descentralizada blockchain. 
+
+
+O metodo basico de desenvolvimento PHP e contruir o codigo PHP sobre 
+o software do servidor Web, tal como Apache ou ISS.
+
+Caso queira ver todas as suas diretrizes crie o seguinte arquivo.
+infor.php  e nele escreva o seguinte.
+
+<?php phpinfo(); ?>
+
+Para escrecer um hello word a sintaxe e facil, basta escrever
+<?php echo "Hello Word" ?>
+
+

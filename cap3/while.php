@@ -1,14 +1,14 @@
 <!-- 
     A expressao whille especifica
     uma condicao que deve ser prenchida antes 
-    antes da execucao do codigo enbutido ser finalizado
+    da execucao do codigo enbutido ser finalizado
 
     Sintaxe
     while (expression) {
         statements
     }
 
-    No proxim exemplo $count e iniciado no valor 1, com isso
+    No proximo exemplo $count e iniciado no valor 1, com isso
     o valor de $count e elevado ao quadrado e exibido. 
     A variavel $count e entao incrementada por 1 e o loop e repetido 
     ate o valor de $count atingir 5.

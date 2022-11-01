@@ -3,11 +3,7 @@
  phpinfo()
 ?>
     
-    <?php
-$cidade = "sertaozinho";
-echo "phpinfo()";
-define("bruno", 18)
-?>
+    
 
 
 
@@ -40,4 +36,11 @@ echo str_replace("gol", "ferrari", $carro );
 
 echo ("Quero um carro\n"."$carro");
 
+?>
+
+<?php
+$cidade = "sertaozinho";
+echo "phpinfo()";
+define("bruno", 18);
+echo ("$bruno tem na cidade de $cidade")
 ?>

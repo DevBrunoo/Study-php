@@ -1,11 +1,10 @@
-<style>
-    body{
-        background-color: black;
-    }
-    h1{
-        color: white;
-    }
-</style>
-<body>
-    <h1>Tente novamente pequeno</h1>
-</body>
+<?php
+
+$ca = 22;
+
+while ($ca > 5){
+    echo "$ca tem ne fatores\n";
+    $ca--;
+}
+
+?>

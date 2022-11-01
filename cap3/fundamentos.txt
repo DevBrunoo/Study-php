@@ -1,8 +1,8 @@
 Uma das vantagens do PHP e que voce pode inserir o seu codigo durante o processo de construcao do HTML.
 
 Para quem nao gosta muito de digitar pode usar <?    ?> que sao chamadas de short-tgas que sao 
-praticamente a mesma coisa de <?php ?>. Esse exemplo parece nao funciona na versao 8.0. Por motivos de 
-adaptacao voce nao deveria usar essa tag.
+praticamente a mesma coisa de <?php ?>, porem o seu uso nao e recomendavel por n fatores negativos. 
+Esse exemplo parece nao funciona na versao 8.0. Por motivos de adaptacao voce nao deveria usar essa tag.
 A tambem como editar com script da seguinte forma  <script language="PHP"> print "Este e um conteudo de script </script>
 Por ultimo uma bem rara se voce tiver suporte a ASP pode usar <% %> e ficaria da  
 seguinte maneira <% print "Este e o outro exemplo %>

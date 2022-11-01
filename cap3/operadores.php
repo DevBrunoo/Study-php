@@ -49,7 +49,7 @@ $sum = $val1 + $val2; // $sum, $vall e $val2 sao operandos
      (operadores de designacao de atalho) que compartilham
      de outras funcionalidades 
 
-     Exemplos: = Atribuir, += Soma-atribui, += Mulplica-atribui, /= Divide-atribui, .= Concatena-atribui
+     Exemplos: = Atribuir, += Soma-atribui, *= Mulplica-atribui, /= Divide-atribui, .= Concatena-atribui
     -----------------------------------------------------------------------------------  
 -->
 

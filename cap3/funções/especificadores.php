@@ -34,7 +34,7 @@
 <br>
 <br>
 <!-- 
-    Agota foi declarado um especificador 
+    Agora foi declarado um especificador 
     %d para uma string o que da errado
     e aparece um numero no lugar da string
     --------------------------------------

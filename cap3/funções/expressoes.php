@@ -12,4 +12,4 @@
  $a ="5"; //atribui a string "5" a variavel $a
  $sum = 50 + $some_int; //atribui a soma de 50 + $some_int para $sum
  $wine = "Zinfandel"; //atribui "Zinfandel" a variavel $wine
- $inventory++; //incrementa a variavel $inventory em 1
+ $inventory++; //Vai incrementando mais um variavel inventory

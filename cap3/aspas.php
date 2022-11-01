@@ -227,7 +227,8 @@ echo "<p>Aqui estou usado os dois</p> $imgburro"
 <hr>
 <br> 
 
-<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla animi beatae ipsa consequatur laborum dicta similique deleniti! Esse pariatur iusto est quaerat maiores, dolor aliquid possimus eum quod iure dolorem.
+<p>
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla animi beatae ipsa consequatur laborum dicta similique deleniti! Esse pariatur iusto est quaerat maiores, dolor aliquid possimus eum quod iure dolorem.
 Quaerat impedit, itaque magni maxime repellendus iusto consequuntur dignissimos repudiandae natus harum repellat quos aut rerum! Cupiditate fugiat incidunt amet dolores, natus magnam eligendi sunt, placeat autem rerum temporibus doloremque.
 Hic porro soluta perspiciatis voluptas doloremque sunt repellat, natus corporis similique quia. Voluptatum perspiciatis praesentium eos aliquam iusto, vel expedita officia! Dolore quas et alias adipisci quo asperiores porro ullam?
 Explicabo vero consequatur facilis temporibus aliquid minus repellendus voluptate quisquam distinctio officia hic, pariatur sapiente fuga iste quam a recusandae placeat, eaque in totam cum debitis. Possimus ipsam debitis dolore!</p>
