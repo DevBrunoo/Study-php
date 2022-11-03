@@ -27,7 +27,7 @@
 ?>
 
 <?php 
-for ($car = 1; $car <=3; $car++) {
+for ($car = 1; $car <=3; $car++) {  //Aqui seria como um whille escrito com if
    printf("%d quantidade <br/>",$car);
 }
 ?>
@@ -43,7 +43,6 @@ for($ovos = 1,50; $ovos <= 9; $ovos++) {
 
 <?php 
   $ovo = 1;
-
   while ($ovo <= 10):
     echo "Total de quantidades pode comprar $ovo <br>";
     $ovo++;

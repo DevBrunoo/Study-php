@@ -1,0 +1,216 @@
+Variaveis 
+
+As variaveis podem manter diferentes tipos de dados
+mas sempre estabelecidas do seguinte modo. 
+
+O nome da variavel tem que comecar com um $
+
+As variaveis levam em conta a diferenca de letras
+ex $Nome e diferente de $nome. 
+
+Depois do cifrao deve se aver uma letra um ou sumblinado 
+logo apos isso pode haver combinacao de letras com numeros
+
+A variavel $this e para ser usada em orientacoes a objeto
+portanto nao pode ser usada em outro lugar.
+
+Um tipo de dado e restricoes na instrutura interpretacao ou operacao
+que podem ser realizadas nos dados. Os tipos primitivos sao categorizados 
+em segnmentos: escalar, composto e especial.
+
+Melhor ver a tabela dos tipos de dados: Tabela de dados PHP.
+Existem dois modos de atribuir valores as variaveis por valor e referencia.
+Ex: $firstename = "peter" estamos atribuindo uma string inteira de 5 caracteres
+a variavel $firstename esse valor permanecera intacto ate ser reatribuido ou script terminar
+Referencia permite que o mesmo conteudo da variavel use nomes diferentes e permite
+que a funcao afete a variavel que nao faz parte dessa funcao.  Apenas as variaveis
+definidas anteriormente pelo valor podem ser definidas por referencia. As variaveis refereidas
+se uma mudar todas serao atualizadas. Para nomear uma variavel como referida acrescebte & ao nome dela 
+ex $firstename = 'bruno' vira &$firstanme. 
+
+Diferente de outras linguagens PHP  e digitado de forma flexicivel e dinamica.
+isso que dizer que o php e inteligente para indetificar o tipo de dado que esta sendo 
+digitado em uma variavel ao mesmo tempo que ela esta sendo atribuida. 
+
+Se uma funcao for definida um includa em um arquivo de codigo, as variaveis 
+definidas dentro dessa funcao nao poderão poderam ser acessadas em outras partes 
+do arquivo de codigo.
+
+--------/------------------/-------------/---------/--------/----------
+
+Constantes definidas
+
+Uma prima da variavel PHP e constante definida, e uma entidade que voce pode 
+definir em qualquer lugar do arquivo de codigo, geralmente perto do inicio 
+do codigo ou em uma funcao. Uma constante definida mantem o valor ate o script 
+terminar o escopo de uma constante definida e global. As regras para definir uma
+constante sao parecidas com as de variavel porem nao sao as mesmas:
+
+Use defini() para definir uma constante
+
+Uma constante deve se iniciar com uma letra ou um sublinado
+seguido de letras, numeros ou sublinhados
+
+Por padrao uma constante definida tem letras maiuculas, embora
+possa altera isso detro das funcao ()defini 
+
+Sintaxe para definir uma constante ex: define("nome da constante", valor da constante, [sem levar em conta letras maiusculas e minusculas])
+O paramentro que leva em consideracao letras minusculas ou maiuculas no fina 
+e opcional. Para acessar os valores dentro de uma constante definida faca referencia ao seu nome. 
+
+Definicao de constantes e util usar quando voce nao quer que algo seja mudado
+ou seja numero do pi ou impostos. 
+--------------------------------/------------/--///-----------------
+Expressoes
+
+Expressoes (nao expressoes regulares elas sao um caso especial)
+sao meramente um termo coletivo para instrucoes de de codigo
+
+$name = 'Peter'
+
+Essa simples sintaxe e uma expressao ela indica atibua a string Peter a variavel
+name. Tecnicamente a linha de codigo e uma instrucao o ponto virgula e o delimitador
+compostas por duas expressoes. o lado esquerdo e uma expressao que define o armazenamento 
+lado difereito o valor a ser atribuido pelo armazenamento. 
+
+Como regra geral, qualquer atribuicao de um valor e considerado uma 
+expressao, ao passo que as instrucoes sao normas de procedimento. 
+
+
+
+-------/-----///------------/------------------/------------------
+
+Decisoes, decisoes (Controle de fluxo)
+
+Processoes de decisao que podem definir usando instrucoes de controle de fluxo
+As instrucoes de controle de fluxo sao usadas para tomar decisaoes com base nas 
+condicoes fornecidas previamente.
+
+----------------------------------------------------------------------
+If..Else..
+
+As istrucoes if basica atribui um valor ou realiza tarefas com base no 
+resultado de um teste simples asveses complexos. A seguinte a mostra traz uma instrucao if 
+
+$today = date("i");
+if($today == "Wednesday")$tax_rate = $tax_rate+4
+
+Se voce quiser testar a igualdade no nivel do tipo de dados, podera usar 
+o teste ===, que avalia o conteudo dos elementos sendo testados e os tipos
+de dados desses intens. Considere este codigo: 
+
+if(1=='1') echo "true 1 equals '1'<br/>";
+if(1 === '1') echo "true 1 quals '1'";
+else acho "false 1 does not equal '1'";
+
+Quando um valor de string e comparado com um valor numerico com ==
+a string e convertida em numero antes da avaliacao ser feita assim
+produzindo true true, quando a avaliacao e feita com === nenhuma 
+conversao numerica e feita e avaliacao e feita com base no conteudo
+e no tipo de dado. 
+
+isso produz o seguinte resultado
+true 1 equals'1'
+false 1 does not equal '1'
+
+Tome cuidado com tantos de niveis de profundidade que voce coloca
+porque pode acabar com um codigo ilegivel e implaticavel. 
+----------------------------------------------------------------------
+While 
+
+Essa funcao executara o codigo repitidamente equnato a funcao for true
+
+Tome cuidado ao executar do while pois o codigo sera executado pelo menos 
+uma vez, e isso pode e nao poder ser ruim 
+
+
+----------------------------------------------------------------------
+For 
+
+A construcao do loop for e um pouco diferente do while, 
+
+------------------/------///-----///-/-/-/-/--/--//------------------
+
+Integracao com Paginas Web
+
+Um dos otimos recursos do PHP e que ele permite gerar HTML
+com base na integracao com um servidor Web, seja Apache
+ou qualquer outro servidor Web lider.
+
+Os siites Web atuais parecem muito interativos com JS, Ajax e
+outras tecnologias de ajuda, mas sites web ainda sao sem estados
+o que significa que uma pagina web nao tem o menor conhecimento sobre
+outra pagina web. 
+
+
+------------------/------///-----///-/-/-/-/--/--//------------------
+
+Cockies 
+
+Cockie e meramente um arquivo que o servidor web amarzena no disco
+rigido do cliente ele tem nomes para indentificalos e valores. 
+
+Como o cookie e armazenado na maquina do cliente, a definicao de 
+expiracao sera inicializada com base nas definicoes internas da 
+hora dessa maquina, nao das do servidor.
+
+O PHP tem uma serie de variaveis de todo sistema que sao chamadas 
+de super globais. 
+
+As variaveis super globais sao reconhecidas com os seu prefixo $_ 
+distindo que o resto do nome e de caracteres maiusculo. 
+Ou seja $_COOKIE simplesmente faz referencia a um valor no array cookie
+pelo nome AnotherCookieName. Isso permite recuperar o valor e usalo em qualquer
+lugar desejado, contanto que o cookie ainda exista.
+
+Sempre e uma boa ideia definir uma data e uma hora de expiracao 
+------------------/------///-----///-/-/-/-/--/--//------------------
+
+Sesao 
+
+A sesao e basicamente a mesma coisa que o cookie porem possui umas diferencas 
+ela reside no servidor Web e nao na maquina do cliente, as vantagem sao que 
+secao nao depende dos recursos ou das definicoes da maquina do cliente assim 
+dando ao programador mais controle. 
+
+As secoes sao armazenadas em arquivos unicos do navegador um local da pasta
+que definimos por session.save_path da diretiva php.ini passe um tempo conhecendo
+php.ini e suas definicoes se quiser que o gerenciamento da secao seja mais eficiente
+
+Exemplos de um nome de um aquivo da secao: sess_p6lhj0ih6te5ar8kqmge629a6
+
+Para comecar a secao voce precisa usar a funcao session_start, se esta for 
+a primeira vez que a funcao esta sendo chamada durante um periodo de atividade
+durante um periodo de atividade Web, essa funcao criara um array associativo 
+vazio no servidor do contrario, a conexao secao sera restabelecida e os 
+dados nela serao acessiveis. Ex de codigo para iniciar uma secao 
+
+
+session_start();
+$today = date("Y-m-d"); // carregue a data de hoje no formato AAAA-// MM-DD
+$_SESSION['today'] ; //adicione esse valor a secao 
+$_SESSION['login_name'] = "Peter"; //adicione um valor da sessao para // o nome de lgion
+
+
+Assim que a conexao for estabelecida, o PHP sabera e podera lidar com 
+suas conexao entre execucao do arquivo dentro da duracao do navegador. 
+
+Se voce abrir varias abas o PHP ira compartilhar o conteudo da secao 
+com as outras guias. Isso pode levar a resultados e atividades inesperadas
+
+Se voce quiser recuperar informacaoes da secao exitente tudo que tera
+que fazer e restabeler a conexao com a secao e referirse a chave do 
+array, a sintaxe fica a seguinte: 
+
+session_start()
+$liginName = $_SESSION['login_name'];
+echo $loginName . " is now logged in"; 
+
+------------------/------///-----///-/-/-/-/--/--//------------------
+
+$_request 
+
+Array $_RUEST, esse e um array exclusivo para cada um dos outros tipos
+solicistantes de arrays, a saber, $_COOKIE, $_GET e $_POST, a unica 
+desvantagem e que cada chave a ser nomeada deve ser unica. 
+

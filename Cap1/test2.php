@@ -8,7 +8,7 @@
 
 <?php
 
-$number = "5;";  //Number e uma string
+$number = "5";  //Number e uma string
 $sum = 15 + $number; //Soma um inteiro e uma string para produzir um 
 
 $sum = "twenty"; //Subscrever $sum como uma string
