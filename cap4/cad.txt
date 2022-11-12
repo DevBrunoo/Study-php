@@ -6,10 +6,10 @@ ate o que voce puder imaginar.
 
 Neste capitulo irei incluir quase tudo sobre funcoes, desde 
 como chamalas, crialas, passar parametros para elas, retorna 
-valores unicios e multiplos ao solicitar criar e incluir bibliotecas funcoes.
+valores unicos e multiplos ao solicitar criar e incluir bibliotecas funcoes.
 
 Existe incontaveis funcoes disponiveis para voce usar no PHP, dificilmente
-voce sera obrigado a criar uma funcao. A mesmo quem diga que apreder sobre 
+voce sera obrigado a criar uma funcao. A pessoas quem falam que apreder sobre 
 bibliotecas e a coisa mais racional de se fazer, porem nesse cap vou mostrar
 como criar funcoes. Voce pode chamar a funcao que quiser simplemente especificando
 o seu nome por meio da instalacao ou usando require() ou include(). 

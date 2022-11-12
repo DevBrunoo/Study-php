@@ -1,7 +1,8 @@
 <!-- 
     Voce pode definir swith
     como uma variante de if-else
-    e muito usado quando voce precisa comparar uma variavel
+    e muito usado quando voce precisa 
+    comparar uma variavel
     com um grande numeros de valores
     ------------------------------------------------
  -->

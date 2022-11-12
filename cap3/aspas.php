@@ -170,7 +170,10 @@ echo "<p>Aqui estou usado os dois</p> $imgburro"
     que declarei anteriormente em meu php
     -----------------------------------------
  -->
- 
+ <!-- 
+     Declaracao da variavel: navbar
+     ---------------------------------
+  -->
 <?=$navbar;?>
 <br>
 
@@ -286,5 +289,5 @@ Explicabo vero consequatur facilis temporibus aliquid minus repellendus voluptat
     Como voce pode ver tem como adicionar
     diversas images usando variaveis
     pode adicionar com imagens 
-
+    ---------------------------------------
  -->

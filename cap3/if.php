@@ -1,7 +1,8 @@
 <!-- 
     A expressao if e uma das 
-    contrucoes mais comuns de qualquer linguagem de 
-    programacao importante oferecendo um meio coviniente para   
+    contrucoes mais comuns de qualquer 
+    linguagem de programacao importante 
+    oferecendo um meio coviniente para   
     expressao de codigo
     ------------------------------------------------
  -->

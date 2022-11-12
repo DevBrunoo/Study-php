@@ -62,6 +62,11 @@ o valor de uma milha que e (2,280)
 Uma vez ela sendo definifa ela nao pode ser modificada. 
 Constantes sao definidas usando o valor define()
 
+<?php 
+ define('dolar'.'3.54');
+?>
+
+
 Expressoes e uma frase expressando 
 uma acao em particular em um programa.
 Todas as expressoes consistem de um ou mais operadores

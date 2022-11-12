@@ -2,11 +2,11 @@
     A combinacao if-else funciona bem
     em uma situacao "ou-ou", isto e uma 
     situacao na qual somente dois resultado 
-    sao possiveis.de
+    sao possiveis.
 
     No exemplo abaixo estamos revisando 
     a funcao de aniversario, porem com mais
-    uma mensagem enplementada, dizendo voce esta perto
+    uma mensagem emplementada, dizendo voce esta perto
     ---------------------------------------------------
  -->
 

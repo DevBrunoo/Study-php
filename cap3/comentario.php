@@ -1,6 +1,7 @@
 <!-- 
-    O php disponibiliza diversos tipos de possiveis combinacao para criar cometario 
-    ---------------------------------------------------------------------
+    O php disponibiliza diversos tipos de possiveis 
+    combinacao para criar cometario 
+    -------------------------------------------------
  -->
  
  <?php 

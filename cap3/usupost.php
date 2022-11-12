@@ -22,5 +22,7 @@ value="" />
 
 <!-- 
     Assim como $_GET, o superglobal $_POST  e 
-    por padrão a unica maneira de acessar variaveis POST
+    por padrão a unica maneira de acessar 
+    variaveis POST
+    ------------------------------------------
  -->
