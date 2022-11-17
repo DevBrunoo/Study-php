@@ -16,7 +16,7 @@ do {
 } while ($x <= 5);
 
 
-//FOR e uma estrtura de repeticao quando voce ja sabe qunatas vezes que ver aquilo se repetindo
+//FOR e uma estrtura de repeticao quando voce ja sabe quantas vezes que ver aquilo se repetindo
 //FOREACH vai repetir o codigo o tanto de vezes que estiver pedindo
 
 $cores =["azil", "amarelo", "verde", "vermelho"];

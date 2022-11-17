@@ -1,0 +1,39 @@
+Apartir do PHP 5.0 foi adcionado suporte ao banco de dados SQLite, pois 
+visivelmente muito menos configuracao e manutencao quando comparado com com produtos similares.
+
+SQL e uma linguagem escrita em C
+SQLite oferece muito dos recursos impegrados em MySQL, Oracle e PostgreSQL
+porem SQL oferece economia em termos de custo, curva de aprendizado e investimento administrativo.
+
+Pros SQL
+
+SQL armazena todo um banco de dados em um arquivo, facilitado backups e trnaferencias
+
+A segurança SQL e totalmete baseada nas permicoes de arquivos de usuario que esta rodando
+o usuario como exemplo poderia escrever um banco de dados SQLite dependendo das permicoes dos arquivos.
+a um problema de injecao por isso, porem se voce colocar o caractere ? podera corrigir esse erro por nao
+aceita caracteres diferentes do desejavel. 
+
+SQLite oferece suporte transacional default, integrado automaticamente suporte commit e rollback 
+SQLite esta disponivel sobre um dominio publico (gratuito) tanto para Microssoft e Linux 
+
+--------------/-------------------------/-------------------------------/-------------------------------/--------
+Considere installar as bibliotecas SQLite apartir de https://www.sqlite.org/ 
+para baixar SQLite: https://www.sqlite.org/download.html
+
+Verifique se SQLite foi intalado por meio do comandos no terminal 
+
+sqlite -help ou sqlite3 -help
+
+--------------/-------------------------/-------------------------------/-------------------------------/--------
+Por meio de linhas de comando voce consegue contrlar o SQLite ou seja criar e editar BD
+
+O simples ato de abrir um banco de dados inexistente ou criara. 
+
+1) sqlite3 coporate.db
+
+2) Para verificar a estrutura .schema  observe que o pomto (".") esse requesito e vdd para todos os comandos que estao na linha de comando
+
+Para inserir valores basta executar as seguintes linhas de comando 
+
+insert into employees values (NULL,"Jason Gilmore", "Chief Slacker"); pode trocar os nomes na linha de comando para o nome que for desejado

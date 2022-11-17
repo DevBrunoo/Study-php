@@ -1,6 +1,6 @@
 <!-- 
     Exemplo de variavel referida
-    para atribuir uma variavel a referemca 
+    para atribuir uma variavel a referenca 
     voce deve usar & antes de $, ficando &$var
     ---------------------------------------------
  -->
@@ -19,7 +19,8 @@ echo $firstname . "<br/>"; //por causa de "pela referencia"
      ---------------------------------------------------
   -->
 
-<!--   define("SYS_OWNER", "PETER");
+<!--   
+  define("SYS_OWNER", "PETER");
   define("SYS_MGR", "Simon", "true");
   echo "System owner is:" . SYS_OWNER . "<br />";
   define("SYS_OWNER", "Michael");

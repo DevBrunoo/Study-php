@@ -3,7 +3,7 @@ Introducao ao PHP
 PHP e uma liguagem focada no estriotipo de open souce ou seja codigo aberto, 
 e fundamental que voce conheca a historia dela para entender o tamanho do seu poder
 
-Criada por Rasmus Lerdodorf seu intuito e era somente descubrar quantas pessoas estavam lendo o seu curriculo online
+Criada por Rasmus Lerdodorf seu intuito e era somente descubrir quantas pessoas estavam lendo o seu curriculo online
 Na epoca nao existia muitas ferramentas como essa, com isso Rasmus comecou a comercializar as suas ferramentas com o nome PHP
 Com o aumento da oferta em busca do PHP, Rasmus continou a programar para evoluir essa linguagem contruida a parti de C
 "Desde do inicio a linguagem PHP foi criada com praticidade na mente"

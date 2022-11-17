@@ -1,5 +1,5 @@
 <!-- 
-    A expressao if e uma das construcoes mais imporantes 
+    A expressao if e uma das construcoes mais importantes 
     oferecendo um meio conviniente para execucao de codigo condicional
 
     A sintaxe e 
