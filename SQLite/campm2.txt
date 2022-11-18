@@ -1,0 +1,11 @@
+Funcoes de gerenciamento de arquivos PHP comumentes usadas 
+
+mkdir()      |  usada para criar um diretorio 
+file_exists()|  usada para verificar se um arquivo ou diretotio existe
+fopen()      |  Usada para ler ou abrir um arquivo exiistente
+fread()      |  Usada para ler o conteudo de um arquivo para uma variavel PHP
+flock()      |  Usada para obter um bloqueio exclusivo em um arquivo para gravacao
+fwrote()     |  Usada para gravar um conteudo de uma variavel um arquivo
+filesize()   |  Usada para determinar quantos bytes ler em um momento 
+fclose()     |  Usada para fechar o arquivo assim que sua utilidade acabar
+             

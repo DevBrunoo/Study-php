@@ -1,0 +1,25 @@
+Ha duas coisas que voce deve levar em consideracao com a criacao do BD
+O uso da interface do banco de dados leve chamada de SQLite e o gerenciamento 
+dos dados atraves do acesso de arquivos. 
+
+O diferencial e que todo o banco de dados e construido com base em arquivos o que e otimo para criar App. 
+SQLite e contruido na distribuicao normal do PHP padrao do PHP, com isso para usalo a unica coisa que voce 
+precisa fazer e se refirir a ele. 
+
+NoSQL diferente de MySQL nao existe uma opca AUTO_INCREMENT. 
+o sql torna qualquer coluna definida com INTEGER e PRIMARY KEY uma coluna de aumento automatico. 
+Voce pode anular isso quando isto fornencndo um valor para coluna quando uma intrucao INSERT for executada. 
+
+Lembresse que SQL e uma ferramenta de banco de dados reduzida por tanto comandos que serviriam para 
+MySQL pode nao se adquar a SQL 
+
+----------/-/--/-----------------------------------------/-------------/------------
+SQLite tem a capacidade de fazer tanta coisa quanto BD maiores, o fato dele ser 
+leve nao significa infuriedade mas sim. Voce sempre deve optar por SQL quando precisa de 
+um banco de dados com recursos mais potaveis e menos exigentes. 
+
+Voce sempre pode comecar com SQL e depois migrar para MySQL que e um BD mais robusto.
+
+Se voce nao quiser usar SQLite uma alternativa sera usar arquivos para gerenciar 
+e manipular quantidades de texto para um futura recuperacao
+-

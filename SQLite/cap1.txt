@@ -37,3 +37,4 @@ O simples ato de abrir um banco de dados inexistente ou criara.
 Para inserir valores basta executar as seguintes linhas de comando 
 
 insert into employees values (NULL,"Jason Gilmore", "Chief Slacker"); pode trocar os nomes na linha de comando para o nome que for desejado
+
