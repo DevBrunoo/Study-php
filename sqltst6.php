@@ -68,6 +68,6 @@ be really free when we still have personal possessions. How do you respond to th
 
     Quando chegar um cliente que nao deseja pagar muito por um banco de
     dados a uma alternativa que voce pode oferecer a ele, o meio de arquivo 
-    como visto antes
+    como visto antes.
     ------------------------------------------------------------------------
  -->

@@ -13,7 +13,7 @@
          function-body
      }
      
-     Exemplo mais implementavel:
+     Exemplo maijs implementavel:
      ----------------------------------------------
   -->
 
