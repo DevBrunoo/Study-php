@@ -11,3 +11,5 @@ foreach ($stmt as $row) {
 }
 
 ?>
+
+<h1>Legal</h1>
